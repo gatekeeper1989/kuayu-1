@@ -2,7 +2,7 @@
 1.安装 node-dev\
 `yarn global add node-dev`\
 2.下载代码\
-https://github.com/gatekeeper1989/kuayu-1
+https://github.com/gatekeeper1989/kuayu-1 \
 3.进入 qq-com 运行 server.js \
 `cd kuayu-1/qq-com; node-dev server.js 8888` \
 4.进入 frank-com 运行 server.js \
